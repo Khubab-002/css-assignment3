@@ -1,0 +1,16 @@
+*{
+font-family:'Times New Roman', Times, serif ;
+    font-weight: 600;
+}
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;   
+    font-family: 'Times New Roman', Times, serif;
+}
+.paragraph1 {
+    font-style: italic;
+}
+.paragraph3{
+    font-weight: bolder;
+}
